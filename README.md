@@ -3,3 +3,5 @@
 This repository is about the badges and trophies I have Earned on Microsoft Learn 
 
 Link - https://docs.microsoft.com/en-us/users/purvibhoyar-2083/achievements?source=docs
+
+(Snapshots are added under this repository )
